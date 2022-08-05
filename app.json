@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Pokemon-app",
+    "slug": "Pokemon-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icono.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/PokedexSplassh.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ef3e38"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icono.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.leancba.PokemonApp", "versionCode" : 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
