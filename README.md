@@ -2,7 +2,7 @@
 
 Aplicacion creada con React & React Native. Consumiendo la API de pokemon
 
-Link de descarga APK funcionando en android8+ : https://cutt.ly/3ZGgUDL
+Link de descarga APK funcionando en android 8+ : https://cutt.ly/3ZGgUDL
 
 Link de video [Link](https://www.youtube.com/watch?v=A9ISS3ukNos)
 
