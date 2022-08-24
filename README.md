@@ -1,4 +1,4 @@
-# Pokemon app
+# Pokemon App
 
 Aplicacion creada con Expo & React Native. Consumiendo la API de pokemon
 
