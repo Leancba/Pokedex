@@ -3,6 +3,8 @@
 
 <h1 align="center">Pokemon App</h1>
 
+<a href="https://github.com/lyswhut/lx-music-mobile/releases"><img src="https://img.shields.io/github/release/lyswhut/lx-music-mobile" alt="Release version"></a>
+
 ### 说明
 
 一个基于 React native 开发的音乐软件。
