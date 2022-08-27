@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/lyswhut/lx-music-mobile"><img width="200" src="https://github.com/Leancba/Pokedex/blob/main/assets/icono.png" alt="lx-music logo"></a></p>
 
 
-<h2 align="center">Pokemon App</h2>
+<h1 align="center">Pokemon App</h1>
 
 Aplicacion creada con Expo & React Native. Consumiendo la API de pokemon
 
