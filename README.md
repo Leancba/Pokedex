@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/lyswhut/lx-music-mobile"><img width="350" src="https://github.com/Leancba/Pokedex/blob/main/assets/icono.png" alt="lx-music logo"></a></p>
+<p align="center"><a href="[https://github.com/lyswhut/lx-music-mobile](https://github.com/Leancba/Pokedex/blob/main/assets/icono.png)"><img width="350" src="https://github.com/Leancba/Pokedex/blob/main/assets/icono.png" alt="lx-music logo"></a></p>
 
 
 
