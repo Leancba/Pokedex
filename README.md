@@ -1,30 +1,37 @@
-<p align="center"><a href="https://github.com/lyswhut/lx-music-mobile"><img width="200" src="https://github.com/Leancba/Pokedex/blob/main/assets/icono.png" alt="lx-music logo"></a></p>
+<p align="center"><a href="https://github.com/lyswhut/lx-music-mobile"><img width="350" src="https://github.com/Leancba/Pokedex/blob/main/assets/icono.png" alt="lx-music logo"></a></p>
 
 
-<h1 align="center">Pokemon App</h1>
 
-<a href="https://github.com/lyswhut/lx-music-mobile/releases"><img src="https://img.shields.io/github/release/lyswhut/lx-music-mobile" alt="Release version"></a>
 
-### 说明
 
-一个基于 React native 开发的音乐软件。
+<h1 align="center">Pokedex App</h1>
 
-所用技术栈：
+<h2> Tecnologias utilizadas </h2>
 
 - React native
-- Expo 
+- Expo
 
-支持的平台：
+<h2> Plataformas </h2>
 
 - Android
+- IOS
 
-注：不计划支持IOS
+<h2> Dependecias principales </h2>
 
-Aplicacion creada con Expo & React Native. Consumiendo la API de pokemon
+##### -react-navigation/drawer
+##### -react-navigation/native
+##### -react-navigation/stack
+##### -expo
+##### -react-navigation
+##### -react-native
+##### -expo/vector-icons
+
+
+<h2> Links </h2>
 
 Link de descarga APK funcionando en android 8+ : https://cutt.ly/3ZGgUDL
 
-Link de Youtube :  [Pokemon App](https://www.youtube.com/watch?v=A9ISS3ukNos)
+Link de Youtube :  [Pokedex App](https://www.youtube.com/watch?v=A9ISS3ukNos)
 
 [![Alt text](https://img.youtube.com/vi/A9ISS3ukNos/0.jpg)](https://www.youtube.com/watch?v=A9ISS3ukNos)
 
