@@ -10,7 +10,7 @@
 所用技术栈：
 
 - React native
-- Redux
+- Expo 
 
 支持的平台：
 
