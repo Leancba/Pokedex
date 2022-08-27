@@ -3,6 +3,21 @@
 
 <h1 align="center">Pokemon App</h1>
 
+### 说明
+
+一个基于 React native 开发的音乐软件。
+
+所用技术栈：
+
+- React native
+- Redux
+
+支持的平台：
+
+- Android
+
+注：不计划支持IOS
+
 Aplicacion creada con Expo & React Native. Consumiendo la API de pokemon
 
 Link de descarga APK funcionando en android 8+ : https://cutt.ly/3ZGgUDL
